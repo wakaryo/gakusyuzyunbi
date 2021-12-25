@@ -1,1 +1,1 @@
-# gakusyuzyunbi
+# html_only
